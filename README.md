@@ -11,7 +11,7 @@ This repo is created for GitHub Copilot Adoption Program, specifically for DevOp
 
 <img src="imagesre1.jpg" alt="Terraform Project" height="300">
 
-**Requirements**
+## Requirements
 
 - VS Code
 - GitHub Copilot license
